@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cau123.props" />
+</Project>

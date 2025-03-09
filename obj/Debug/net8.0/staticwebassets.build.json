@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "ufUFV0tNUdhigRYfJ2I4DWXVvr0uPwmusOffDa6V7ok=",
+  "Source": "Cau123",
+  "BasePath": "_content/Cau123",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Cau123\\wwwroot",
+      "Source": "Cau123",
+      "ContentRoot": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau123-main\\wwwroot\\",
+      "BasePath": "_content/Cau123",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau123-main\\wwwroot\\index.html",
+      "SourceId": "Cau123",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau123-main\\wwwroot\\",
+      "BasePath": "_content/Cau123",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau123-main\\wwwroot\\script.js",
+      "SourceId": "Cau123",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau123-main\\wwwroot\\",
+      "BasePath": "_content/Cau123",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau123-main\\wwwroot\\style.css",
+      "SourceId": "Cau123",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau123-main\\wwwroot\\",
+      "BasePath": "_content/Cau123",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}

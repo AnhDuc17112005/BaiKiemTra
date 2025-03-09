@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "j6QgtcKRx+Yh3Mgw3M2vaiWBBeFyGKroHuqUNrk56RY=",
+  "Source": "Causo1",
+  "BasePath": "_content/Causo1",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Causo1\\wwwroot",
+      "Source": "Causo1",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Causo1\\Causo1\\wwwroot\\",
+      "BasePath": "_content/Causo1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Causo1\\Causo1\\wwwroot\\index.html",
+      "SourceId": "Causo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Causo1\\Causo1\\wwwroot\\",
+      "BasePath": "_content/Causo1",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nfu7wgsba1",
+      "Integrity": "LYpbP+WjDQ6z2a/jDnFJemcikDRFVPDJ8ze4+tYB4YM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Causo1\\Causo1\\wwwroot\\script.js",
+      "SourceId": "Causo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Causo1\\Causo1\\wwwroot\\",
+      "BasePath": "_content/Causo1",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y763lu0ity",
+      "Integrity": "wtDuil8zrXOxYuW/xoFJ+x0bPLQw5QxvqYbZju0QsTA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Causo1\\Causo1\\wwwroot\\style.css",
+      "SourceId": "Causo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Causo1\\Causo1\\wwwroot\\",
+      "BasePath": "_content/Causo1",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m3kihmelsu",
+      "Integrity": "vuDCe70/+0LpvA4PfnZ909moxGYHY1dC/BoJ73FcUBw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Causo1\\Causo1\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LYpbP+WjDQ6z2a/jDnFJemcikDRFVPDJ8ze4+tYB4YM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 15:11:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LYpbP+WjDQ6z2a/jDnFJemcikDRFVPDJ8ze4+tYB4YM="
+        }
+      ]
+    },
+    {
+      "Route": "index.nfu7wgsba1.html",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Causo1\\Causo1\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LYpbP+WjDQ6z2a/jDnFJemcikDRFVPDJ8ze4+tYB4YM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 15:11:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nfu7wgsba1"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LYpbP+WjDQ6z2a/jDnFJemcikDRFVPDJ8ze4+tYB4YM="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Causo1\\Causo1\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4713"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wtDuil8zrXOxYuW/xoFJ+x0bPLQw5QxvqYbZju0QsTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 15:24:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wtDuil8zrXOxYuW/xoFJ+x0bPLQw5QxvqYbZju0QsTA="
+        }
+      ]
+    },
+    {
+      "Route": "script.y763lu0ity.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Causo1\\Causo1\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4713"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wtDuil8zrXOxYuW/xoFJ+x0bPLQw5QxvqYbZju0QsTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 15:24:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y763lu0ity"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wtDuil8zrXOxYuW/xoFJ+x0bPLQw5QxvqYbZju0QsTA="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Causo1\\Causo1\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vuDCe70/+0LpvA4PfnZ909moxGYHY1dC/BoJ73FcUBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 15:11:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vuDCe70/+0LpvA4PfnZ909moxGYHY1dC/BoJ73FcUBw="
+        }
+      ]
+    },
+    {
+      "Route": "style.m3kihmelsu.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Causo1\\Causo1\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vuDCe70/+0LpvA4PfnZ909moxGYHY1dC/BoJ73FcUBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 15:11:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m3kihmelsu"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vuDCe70/+0LpvA4PfnZ909moxGYHY1dC/BoJ73FcUBw="
+        }
+      ]
+    }
+  ]
+}
