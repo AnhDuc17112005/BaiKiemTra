@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\models\\goodsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:models\\goodsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\views\\hanghoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\hanghoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\views\\hanghoa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\hanghoa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\views\\hanghoa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\hanghoa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\views\\hanghoa\\updatenote.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\hanghoa\\updatenote.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\admin\\downloads\\cau123-main\\cau4-main\\migrations\\20250307155218_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:migrations\\20250307155218_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:45:52.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T15:46:50.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HangHoaController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:53:20.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:54:46.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Models\\HangHoa.cs",
+              "RelativeDocumentMoniker": "Models\\HangHoa.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Models\\HangHoa.cs",
+              "RelativeToolTip": "Models\\HangHoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:41:02.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GoodsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Models\\GoodsDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\GoodsDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Models\\GoodsDbContext.cs",
+              "RelativeToolTip": "Models\\GoodsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:41:38.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\HangHoa\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\HangHoa\\Create.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T16:10:58.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\HangHoa\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\HangHoa\\Delete.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Delete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T16:12:07.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\HangHoa\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\HangHoa\\Edit.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T16:11:36.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T16:10:24.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateNote.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\HangHoa\\UpdateNote.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\UpdateNote.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\HangHoa\\UpdateNote.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\UpdateNote.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T16:12:42.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T15:55:03.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "Views\\Home\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T15:59:50.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T14:58:46.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T14:58:37.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T14:58:34.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T14:58:33.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T14:58:30.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T14:58:29.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250307155218_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Migrations\\20250307155218_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250307155218_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Cau123-main\\Cau4-main\\Migrations\\20250307155218_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250307155218_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:52:18.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
